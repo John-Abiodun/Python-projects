@@ -1,0 +1,5 @@
+print("This Program calculates the average of two numbers.")
+first_number = float (input("Please enter the first number: "))
+second_number = float  (input("Please enter the second number: "))
+print("The numbers are", first_number, "and", second_number)
+print("The average is: ", (first_number + second_number) /2)
